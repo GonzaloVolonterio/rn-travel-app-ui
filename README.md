@@ -1,5 +1,5 @@
 
-![h1](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/51dae372-6c79-4ae2-8d72-bfe3e49e7d20) ![h2](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/c4569e92-f649-4dca-804b-d37174975b19)
+![h1](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/51dae372-6c79-4ae2-8d72-bfe3e49e7d20) ![h2](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/7201f2ef-011b-410a-8940-bfaf007c10af)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
