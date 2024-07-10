@@ -30,6 +30,8 @@ Expo-system-ui
 React-native-reanimated
 React-native-safe-area-context
 React-native-screens
+TypeScript 
+Stylesheet
 ```
 
 ### Clone repo 🔧
