@@ -46,4 +46,6 @@ npm install
 npm start
 ```
 
-![h1](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/51dae372-6c79-4ae2-8d72-bfe3e49e7d20) ![h3](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/395e4aed-69f7-4084-b6bc-2eb658f8b5ed)
+![travelappui](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/8d7a6270-013f-422f-8c79-0ca4675379a8)
+
+
