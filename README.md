@@ -5,7 +5,7 @@
 
 ```
 user profile
-notification icone
+notification icon
 search
 categories with animation
 details screen
