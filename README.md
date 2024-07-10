@@ -3,15 +3,13 @@
 # Travel App UI/UX  
 ## Fully Responsive Modern UI/UX  
 
-```
-user profile
-notification icon
-search
-categories with animation
-details screen
-scrolling effect 
-call back button
-```
+👉 Visually Appealing UI/UX Design: Develop an aesthetically pleasing user interface using React Native components.
+
+👉 Search & Pagination Functionality: Implement search functionality and pagination for efficient data navigation, categories with animation, details screen, scrolling effect, call back button.
+
+👉 User Profile.
+
+👉 Optimized for All Devices: A responsive design for a seamless user experience across various devices.
 
 ### Built With
 
