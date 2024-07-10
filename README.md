@@ -48,5 +48,4 @@ npm start
 
 ```
 
-![h1](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/51dae372-6c79-4ae2-8d72-bfe3e49e7d20) ![h3](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/c4ca03ea-2dc2-4af1-a659-9f4832f079eb)
-
+![h1](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/51dae372-6c79-4ae2-8d72-bfe3e49e7d20) ![h3](https://github.com/GonzaloVolonterio/rn-travel-app-ui/assets/64506662/395e4aed-69f7-4084-b6bc-2eb658f8b5ed)
