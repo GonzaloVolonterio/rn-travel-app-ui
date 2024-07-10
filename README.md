@@ -1,6 +1,6 @@
 # React Native
 
-# Travel App Ui
+# Travel App UI/UX  
 ## Fully Responsive Modern UI/UX  
 
 ```
@@ -12,7 +12,6 @@ details screen
 scrolling effect 
 call back button
 ```
-
 
 ### Built With
 
