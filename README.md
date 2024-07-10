@@ -2,6 +2,7 @@
 
 # Travel App Ui
 
+```
 ## Fully Responsive Modern UI/UX  
 ## user profile
 ## notification icone
@@ -10,6 +11,7 @@
 ## details screen
 ## scrolling effect 
 ## call back button
+```
 
 
 ### Built With
